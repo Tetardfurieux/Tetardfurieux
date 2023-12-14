@@ -1,5 +1,5 @@
 ### Hi there 👋
-I'm Baptiste, I'm a cybersecurity and CTFs enjoyer. 
+I'm Baptiste, I'm a cybersecurity and CTF enjoyer. 
 - 🌱 I’m currently learning Cybersecurity
 - ⚡ Fun facts: I love ducks and traveling
 <!--
