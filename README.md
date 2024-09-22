@@ -1,7 +1,7 @@
 ### Hi there 👋
 I'm Baptiste, I'm a cybersecurity and CTF enjoyer. 
 - 🌱 I’m currently learning Cybersecurity
-- ⚡ Fun facts: I love ducks and traveling
+- ⚡ Fun facts: I love ducks and travelling
 <!--
 **Tetardfurieux/Tetardfurieux** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
